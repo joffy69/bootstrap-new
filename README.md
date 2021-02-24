@@ -43,3 +43,10 @@ We continually tweak and adjust this template to help give you the best experien
 --------
 
 Happy coding!
+
+
+
+
+copyright links
+
+https://css-tricks.com/perfect-full-page-background-image/
